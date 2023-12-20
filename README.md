@@ -1,2 +1,10 @@
-# CS-2340
-CS 2340. Taken in Fall 2022
+# S0
+Sprint 0 Repository
+
+Nakul Kuttua
+Preity Chavan
+Kyle Peters
+Michael Fu
+Lily Kwok
+Michael Fu
+Lily Kwok
